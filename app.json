@@ -21,7 +21,7 @@
     } ,
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
-      "value": "1562091466"
+      "value": "1562091466 1690949100"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
