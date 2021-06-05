@@ -39,6 +39,10 @@
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
       "value": "1819096910:AAGxg8VwsdcKS9A7QfY3k0KSE2A0jzzuRRI"
     },
+    "SUDO_COMMAND_HAND_LER": {
+      "description": "Sudo Users Command Handler",
+      "value": "."
+    },
     "COMMAND_HAND_LER": {
       "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
       "value": ".",
