@@ -17,7 +17,7 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "2984448"
+      "value": "1273127"
     } ,
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
@@ -25,7 +25,7 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "11cf2f3ef1227c92ae0ef51ef5395aa6"
+      "value": "2626aee4ea587947c6a703f1a0d6a3cc"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
@@ -33,11 +33,11 @@
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
-      "value": "@YukkiSpamBot"
+      "value": "@SpamforYukki1Bot"
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "1819096910:AAGxg8VwsdcKS9A7QfY3k0KSE2A0jzzuRRI"
+      "value": "1831700464:AAG-spzSLZ25-TBe191Ui3O2dg6Sc6pXlFc"
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Sudo Users Command Handler",
