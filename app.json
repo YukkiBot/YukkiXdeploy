@@ -1,5 +1,5 @@
 {
-  "name": "YUKKI SPAM USERBOT",
+  "name": "INDIAN OP SPAM USERBOT",
   "description": "A Powerful Telegram Spam Userbot. Based and codes from Catuserbot",
   "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
   "keywords": [
@@ -7,13 +7,13 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/unknownforall1/YukkiSpamBot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": ""
+      "INDIAN OP": ""
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -21,7 +21,7 @@
     } ,
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
-      "value": "1562091466 1690949100"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -43,10 +43,7 @@
       "description": "Sudo Users Command Handler",
       "value": "."
     },
-    "COMMAND_HAND_LER": {
-      "description": "Set this one with only one the symbol to use it before your command to run like . , ' `",
-      "value": ".",
-      "required": false
+    
     },
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -60,7 +57,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name ",
-      "value": "YukkiSpamBot",
+      "value": "INDIANSpamBot",
       "required": false
     },
     "TZ": {
@@ -70,7 +67,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "Yukki",
+      "value": "INDIAN OP",
       "required": false
     }
   },
